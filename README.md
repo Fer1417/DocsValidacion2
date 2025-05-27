@@ -38,7 +38,7 @@ Instala:
 1. Clona el repositorio o descarga el código:
 
 ```bash
-https://github.com/Fer1417/RegistroDocs.git
+https://github.com/Fer1417/DocsValidacion2.git
 cd docs-validacion2
 ```
 2. Crea y activa entorno virtual:
